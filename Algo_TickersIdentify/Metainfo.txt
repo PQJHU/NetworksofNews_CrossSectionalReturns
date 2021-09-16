@@ -1,0 +1,11 @@
+Name of QuantLet : TickersIdentification
+
+Published in : 'Networks of News and Cross-Sectional Returns'
+
+Description : 'Algorithm that identify '
+
+Keywords : Textual Analysis, Entity Identification
+
+See also : ''
+
+Author : Junjie Hu
