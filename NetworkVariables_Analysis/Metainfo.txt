@@ -1,0 +1,11 @@
+Name of QuantLet : NN_Variables
+
+Published in : 'Networks of News and Cross-Sectional Returns'
+
+Description : 'Inspect the derived variables from the News Network, Plots and Stats'
+
+Keywords : Textual Analysis, Network Analysis
+
+See also : ''
+
+Author : Junjie Hu

@@ -125,7 +125,9 @@ def OneTypeNetworkConstruction(network_fullsample, dir_label, full_nodes):
                      end_dates)
     networks_construction_periodic(g_spx_w=network_chunks[0], nodes_list=nodes_chunks[0], dir_label=dir_label, start=start_dates[0], end=end_dates[0])
     end_timer = time.perf_counter()
-
+    # Full Sample Network
+    full_nodes_list = full_nodes.drop_duplicates().loc[:, 'Ticker']
+    networks_construction_periodic(g_spx_w=network_fullsample, nodes_list=full_nodes_list, dir_label='FullSample_'+dir_label, start=start_dates[0], end=end_dates[-1])
     print(f'Finished network {dir_label} in {round(end_timer - start_timer, 2)} Seconds')
 
 
