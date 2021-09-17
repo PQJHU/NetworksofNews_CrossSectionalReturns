@@ -2,7 +2,8 @@ Name of QuantLet : TickersIdentification
 
 Published in : 'Networks of News and Cross-Sectional Returns'
 
-Description : 'Algorithm that identify '
+Description : 'Algorithm that identify the S&P500 firm tickers from news text. The algorithm only identify those tickers
+in the three most commonly seen cases. Detailed description refer to the paper'
 
 Keywords : Textual Analysis, Entity Identification
 

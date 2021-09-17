@@ -1,0 +1,11 @@
+Name of QuantLet : NewsNetwork
+
+Published in : 'Networks of News and Cross-Sectional Returns'
+
+Description : 'Construct news network out of the identified tickers of S&P500 stocks'
+
+Keywords : Textual Analysis, Network Analysis
+
+See also : ''
+
+Author : Junjie Hu
