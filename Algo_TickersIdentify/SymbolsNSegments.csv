@@ -1,0 +1,634 @@
+Ticker,Name,FullSegments,seg_len,ticker
+A,Agilent Technologies Inc,\bAgilent Technologies\b,2,A
+AA,Alcoa Corp,\bAlcoa\b,1,AA
+AAL,American Airlines Group Inc,\bAmerican Airlines\b,1,AAL
+AAP,Advance Auto Parts Inc,\bAdvance Auto Parts\b|\bAdvance Auto\b,3,AAP
+AAPL,Apple Inc,\bApple\b,1,AAPL
+ABBV,AbbVie Inc,\bAbbVie\b,1,ABBV
+ABC,AmerisourceBergen Corp,\bAmerisourceBergen\b,1,ABC
+ABMD,ABIOMED Inc,\bABIOMED\b,1,ABMD
+ABT,Abbott Laboratories,\bAbbott Laboratories\b,2,ABT
+ACN,Accenture PLC,\bAccenture\b,1,ACN
+ADBE,Adobe Inc,\bAdobe\b,1,ADBE
+ADI,Analog Devices Inc,\bAnalog Devices\b,2,ADI
+ADM,Archer-Daniels-Midland Co,\bArcher-Daniels-Midland\b,1,ADM
+ADNT,Adient PLC,\bAdient\b,1,ADNT
+ADP,Automatic Data Processing Inc,\bAutomatic Data\b|\bAutomatic Data Processing\b,3,ADP
+ADS,Alliance Data Systems Corp,\bAlliance Data\b|\bAlliance Data Systems\b,3,ADS
+ADSK,Autodesk Inc,\bAutodesk\b,1,ADSK
+AEE,Ameren Corp,\bAmeren\b,1,AEE
+AEP,American Electric Power Co Inc,\bAmerican Electric\b|\bAmerican Electric Power\b,2,AEP
+AES,AES Corp/VA,\bAES\b,1,AES
+AET,Aetna Inc,\bAetna\b,1,AET
+AFL,Aflac Inc,\bAflac\b,1,AFL
+AGN,Allergan PLC,\bAllergan\b,1,AGN
+AIG,American International Group Inc,\bAmerican International\b,1,AIG
+AIV,Apartment Investment & Management Co,\bApartment Investment &\b|\bApartment Investment\b,3,AIV
+AIZ,Assurant Inc,\bAssurant\b,1,AIZ
+AJG,Arthur J Gallagher & Co,\bArthur J Gallagher &\b|\bArthur J\b|\bArthur J Gallagher\b,4,AJG
+AKAM,Akamai Technologies Inc,\bAkamai Technologies\b,2,AKAM
+ALB,Albemarle Corp,\bAlbemarle\b,1,ALB
+ALGN,Align Technology Inc,\bAlign Technology\b,1,ALGN
+ALK,Alaska Air Group Inc,\bAlaska Air\b,2,ALK
+ALL,Allstate Corp/The,\bAllstate\b,1,ALL
+ALLE,Allegion PLC,\bAllegion\b,1,ALLE
+ALXN,Alexion Pharmaceuticals Inc,\bAlexion Pharmaceuticals\b,2,ALXN
+AMAT,Applied Materials Inc,\bApplied Materials\b,2,AMAT
+AMCR,Amcor PLC,\bAmcor\b,1,AMCR
+AMD,Advanced Micro Devices Inc,\bAdvanced Micro Devices\b|\bAdvanced Micro\b,3,AMD
+AME,AMETEK Inc,\bAMETEK\b,1,AME
+AMG,Affiliated Managers Group Inc,\bAffiliated Managers\b,2,AMG
+AMGN,Amgen Inc,\bAmgen\b,1,AMGN
+AMP,Ameriprise Financial Inc,\bAmeriprise Financial\b,2,AMP
+AMT,American Tower Corp,\bAmerican Tower\b,1,AMT
+AMZN,Amazon.com Inc,\bAmazon.com\b,1,AMZN
+AN,AutoNation Inc,\bAutoNation\b,1,AN
+ANDV,Andeavor,\bAndeavor\b,1,ANDV
+ANET,Arista Networks Inc,\bArista Networks\b,2,ANET
+ANF,Abercrombie & Fitch Co,\bAbercrombie&Fitch\b,1,ANF
+ANRZQ,Alpha Natural Resources Inc,\bAlpha Natural\b|\bAlpha Natural Resources\b,3,ANRZQ
+ANSS,ANSYS Inc,\bANSYS\b,1,ANSS
+ANTM,Anthem Inc,\bAnthem\b,1,ANTM
+AON,Aon PLC,\bAon\b,1,AON
+AOS,AO Smith Corp,\bAO Smith\b,2,AOS
+APA,Apache Corp,\bApache\b,1,APA
+APC,Anadarko Petroleum Corp,\bAnadarko Petroleum\b,2,APC
+APD,Air Products & Chemicals Inc,\bAir Products&Chemicals\b,1,APD
+APH,Amphenol Corp,\bAmphenol\b,1,APH
+APOL,Apollo Education Group Inc,\bApollo Education\b,2,APOL
+APTV,Aptiv PLC,\bAptiv\b,1,APTV
+ARE,Alexandria Real Estate Equities Inc,\bAlexandria Real\b|\bAlexandria Real Estate\b|\bAlexandria Real Estate Equities\b,4,ARE
+ARG,Airgas Inc,\bAirgas\b,1,ARG
+ARNC,Arconic Inc,\bArconic\b,1,ARNC
+ATGE,Adtalem Global Education Inc,\bAdtalem Global\b|\bAdtalem Global Education\b,3,ATGE
+ATI,Allegheny Technologies Inc,\bAllegheny Technologies\b,2,ATI
+ATO,Atmos Energy Corp,\bAtmos Energy\b,2,ATO
+ATVI,Activision Blizzard Inc,\bActivision Blizzard\b,2,ATVI
+AVB,AvalonBay Communities Inc,\bAvalonBay Communities\b,2,AVB
+AVGO,Broadcom Inc,\bBroadcom\b,1,AVGO
+AVP,Avon Products Inc,\bAvon Products\b,2,AVP
+AVY,Avery Dennison Corp,\bAvery Dennison\b,2,AVY
+AWK,American Water Works Co Inc,\bAmerican Water Works\b|\bAmerican Water\b,2,AWK
+AXP,American Express Co,\bAmerican Express\b,1,AXP
+AYI,Acuity Brands Inc,\bAcuity Brands\b,2,AYI
+AZO,AutoZone Inc,\bAutoZone\b,1,AZO
+BA,Boeing Co/The,\bBoeing\b,1,BA
+BAC,Bank of America Corp,\bBank of America\b,2,BAC
+BAX,Baxter International Inc,\bBaxter International\b,2,BAX
+BBBY,Bed Bath & Beyond Inc,\bBed Bath&Beyond\b,2,BBBY
+BBY,Best Buy Co Inc,\bBest Buy\b,1,BBY
+BCR,CR Bard Inc,\bCR Bard\b,2,BCR
+BDX,Becton Dickinson and Co,\bBecton Dickinson\b|\bBecton Dickinson and\b,3,BDX
+BEN,Franklin Resources Inc,\bFranklin Resources\b,2,BEN
+BFB,Brown-Forman Corp,\bBrown-Forman\b,1,BFB
+BHF,Brighthouse Financial Inc,\bBrighthouse Financial\b,2,BHF
+BHI,Baker Hughes a GE Co LLC,\bBaker Hughes a\b|\bBaker Hughes a GE\b,2,BHI
+BIG,Big Lots Inc,\bBig Lots\b,2,BIG
+BIIB,Biogen Inc,\bBiogen\b,1,BIIB
+BKR,Baker Hughes Co,\bBaker Hughes\b,2,BKR
+BLK,BlackRock Inc,\bBlackRock\b,1,BLK
+BMC,BMC Software Inc,\bBMC Software\b,2,BMC
+BMS,Bemis Co Inc,\bBemis\b,1,BMS
+BMY,Bristol-Myers Squibb Co,\bBristol-Myers Squibb\b,2,BMY
+BR,Broadridge Financial Solutions Inc,\bBroadridge Financial Solutions\b|\bBroadridge Financial\b,3,BR
+BRKB,Berkshire Hathaway Inc,\bBerkshire Hathaway\b,2,BRKB
+BSX,Boston Scientific Corp,\bBoston Scientific\b,1,BSX
+BTUUQ,Peabody Energy Corp,\bPeabody Energy\b,2,BTUUQ
+BWA,BorgWarner Inc,\bBorgWarner\b,1,BWA
+BXLT,Baxalta Inc,\bBaxalta\b,1,BXLT
+BXP,Boston Properties Inc,\bBoston Properties\b,1,BXP
+C,Citigroup Inc,\bCitigroup\b,1,C
+CAG,Conagra Brands Inc,\bConagra Brands\b,2,CAG
+CAH,Cardinal Health Inc,\bCardinal Health\b,2,CAH
+CAM,Cameron International Corp,\bCameron International\b,2,CAM
+CAT,Caterpillar Inc,\bCaterpillar\b,1,CAT
+CB,Chubb Ltd,\bChubb\b,1,CB
+CBE,Cooper Industries PLC,\bCooper Industries\b,1,CBE
+CBOE,Cboe Global Markets Inc,\bCboe Global Markets\b|\bCboe Global\b,3,CBOE
+CBRE,CBRE Group Inc,\bCBRE\b,1,CBRE
+CCEP,Coca-Cola European Partners PLC,\bCoca-Cola European\b,1,CCEP
+CCI,Crown Castle International Corp,\bCrown Castle\b|\bCrown Castle International\b,3,CCI
+CCL,Carnival Corp,\bCarnival\b,1,CCL
+CDNS,Cadence Design Systems Inc,\bCadence Design\b|\bCadence Design Systems\b,3,CDNS
+CDW,CDW Corp/DE,\bCDW\b,1,CDW
+CE,Celanese Corp,\bCelanese\b,1,CE
+CEG,Constellation Energy Group Inc,\bConstellation Energy\b,1,CEG
+CELG,Celgene Corp,\bCelgene\b,1,CELG
+CERN,Cerner Corp,\bCerner\b,1,CERN
+CF,CF Industries Holdings Inc,\bCF Industries\b,2,CF
+CFG,Citizens Financial Group Inc,\bCitizens Financial\b,1,CFG
+CFN,CareFusion Corp,\bCareFusion\b,1,CFN
+CHD,Church & Dwight Co Inc,\bChurch&Dwight\b,1,CHD
+CHK,Chesapeake Energy Corp,\bChesapeake Energy\b,2,CHK
+CHRW,CH Robinson Worldwide Inc,\bCH Robinson Worldwide\b|\bCH Robinson\b,3,CHRW
+CHTR,Charter Communications Inc,\bCharter Communications\b,2,CHTR
+CI,Cigna Corp,\bCigna\b,1,CI
+CINF,Cincinnati Financial Corp,\bCincinnati Financial\b,2,CINF
+CL,Colgate-Palmolive Co,\bColgate-Palmolive\b,1,CL
+CLF,Cleveland-Cliffs Inc,\bCleveland-Cliffs\b,1,CLF
+CLX,Clorox Co/The,\bClorox\b,1,CLX
+CMA,Comerica Inc,\bComerica\b,1,CMA
+CMCSA,Comcast Corp,\bComcast\b,1,CMCSA
+CME,CME Group Inc,\bCME\b,1,CME
+CMG,Chipotle Mexican Grill Inc,\bChipotle Mexican Grill\b|\bChipotle Mexican\b,3,CMG
+CMI,Cummins Inc,\bCummins\b,1,CMI
+CMS,CMS Energy Corp,\bCMS Energy\b,2,CMS
+CNC,Centene Corp,\bCentene\b,1,CNC
+CNP,CenterPoint Energy Inc,\bCenterPoint Energy\b,2,CNP
+CNX,CNX Resources Corp,\bCNX Resources\b,2,CNX
+COF,Capital One Financial Corp,\bCapital One Financial\b|\bCapital One\b,3,COF
+COG,Cabot Oil & Gas Corp,\bCabot Oil&Gas\b,2,COG
+COL,Rockwell Collins Inc,\bRockwell Collins\b,1,COL
+COO,Cooper Cos Inc/The,\bCooper Cos\b,1,COO
+COP,ConocoPhillips,\bConocoPhillips\b,1,COP
+COST,Costco Wholesale Corp,\bCostco Wholesale\b,2,COST
+COTY,Coty Inc,\bCoty\b,1,COTY
+COV,Covidien Ltd,\bCovidien\b,1,COV
+CPB,Campbell Soup Co,\bCampbell Soup\b,2,CPB
+CPGX,Columbia Pipeline Group Inc,\bColumbia Pipeline\b,1,CPGX
+CPRI,Capri Holdings Ltd,\bCapri\b,1,CPRI
+CPRT,Copart Inc,\bCopart\b,1,CPRT
+CRM,salesforce.com Inc,\bsalesforce.com\b,1,CRM
+CSC,Computer Sciences Corp,\bComputer Sciences\b,2,CSC
+CSCO,Cisco Systems Inc,\bCisco Systems\b,2,CSCO
+CSRA,CSRA Inc,\bCSRA\b,1,CSRA
+CSX,CSX Corp,\bCSX\b,1,CSX
+CTAS,Cintas Corp,\bCintas\b,1,CTAS
+CTL,CenturyLink Inc,\bCenturyLink\b,1,CTL
+CTSH,Cognizant Technology Solutions Corp,\bCognizant Technology\b|\bCognizant Technology Solutions\b,3,CTSH
+CTVA,Corteva Inc,\bCorteva\b,1,CTVA
+CTXS,Citrix Systems Inc,\bCitrix Systems\b,2,CTXS
+CVC,Cablevision Systems Corp,\bCablevision Systems\b,2,CVC
+CVH,Coventry Health Care Inc,\bCoventry Health\b|\bCoventry Health Care\b,3,CVH
+CVS,CVS Health Corp,\bCVS Health\b,2,CVS
+CVX,Chevron Corp,\bChevron\b,1,CVX
+CXO,Concho Resources Inc,\bConcho Resources\b,2,CXO
+D,Dominion Energy Inc,\bDominion Energy\b,2,D
+DAL,Delta Air Lines Inc,\bDelta Air Lines\b|\bDelta Air\b,3,DAL
+DD,DuPont de Nemours Inc,\bDuPont de Nemours\b|\bDuPont de\b,3,DD
+DE,Deere & Co,\bDeere &\b,2,DE
+DFODQ,Dean Foods Co,\bDean Foods\b,2,DFODQ
+DFS,Discover Financial Services,\bDiscover Financial Services\b|\bDiscover Financial\b,3,DFS
+DG,Dollar General Corp,\bDollar General\b,1,DG
+DGX,Quest Diagnostics Inc,\bQuest Diagnostics\b,2,DGX
+DHI,DR Horton Inc,\bDR Horton\b,2,DHI
+DHR,Danaher Corp,\bDanaher\b,1,DHR
+DIS,Walt Disney Co/The,\bWalt Disney\b,2,DIS
+DISH,DISH Network Corp,\bDISH Network\b,2,DISH
+DLR,Digital Realty Trust Inc,\bDigital Realty\b|\bDigital Realty Trust\b,3,DLR
+DLTR,Dollar Tree Inc,\bDollar Tree\b,1,DLTR
+DNB,Dun & Bradstreet Corp/The,\bDun&Bradstreet\b,1,DNB
+DNR,Denbury Resources Inc,\bDenbury Resources\b,2,DNR
+DO,Diamond Offshore Drilling Inc,\bDiamond Offshore\b|\bDiamond Offshore Drilling\b,3,DO
+DOV,Dover Corp,\bDover\b,1,DOV
+DRE,Duke Realty Corp,\bDuke Realty\b,1,DRE
+DRI,Darden Restaurants Inc,\bDarden Restaurants\b,2,DRI
+DTE,DTE Energy Co,\bDTE Energy\b,2,DTE
+DUK,Duke Energy Corp,\bDuke Energy\b,1,DUK
+DVA,DaVita Inc,\bDaVita\b,1,DVA
+DVN,Devon Energy Corp,\bDevon Energy\b,2,DVN
+DXC,DXC Technology Co,\bDXC Technology\b,2,DXC
+EA,Electronic Arts Inc,\bElectronic Arts\b,2,EA
+EBAY,eBay Inc,\beBay\b,1,EBAY
+ECL,Ecolab Inc,\bEcolab\b,1,ECL
+ED,Consolidated Edison Inc,\bConsolidated Edison\b,2,ED
+EFX,Equifax Inc,\bEquifax\b,1,EFX
+EIX,Edison International,\bEdison International\b,2,EIX
+EL,Estee Lauder Cos Inc/The,\bEstee Lauder Cos\b|\bEstee Lauder\b,3,EL
+EMC,EMC Corp,\bEMC\b,1,EMC
+EMN,Eastman Chemical Co,\bEastman Chemical\b,2,EMN
+EMR,Emerson Electric Co,\bEmerson Electric\b,2,EMR
+ENDP,Endo International PLC,\bEndo International\b,2,ENDP
+EOG,EOG Resources Inc,\bEOG Resources\b,2,EOG
+EP,El Paso LLC,\bEl\b,1,EP
+EQIX,Equinix Inc,\bEquinix\b,1,EQIX
+EQR,Equity Residential,\bEquity Residential\b,2,EQR
+EQT,EQT Corp,\bEQT\b,1,EQT
+ES,Eversource Energy,\bEversource Energy\b,2,ES
+ESRX,Express Scripts Holding Co,\bExpress Scripts\b,1,ESRX
+ESS,Essex Property Trust Inc,\bEssex Property Trust\b|\bEssex Property\b,2,ESS
+ETFC,E*TRADE Financial Corp,\bE*TRADE Financial\b,2,ETFC
+ETN,Eaton Corp PLC,\bEaton\b,1,ETN
+ETR,Entergy Corp,\bEntergy\b,1,ETR
+EVHC,Envision Healthcare Corp,\bEnvision Healthcare\b,2,EVHC
+EVRG,Evergy Inc,\bEvergy\b,1,EVRG
+EW,Edwards Lifesciences Corp,\bEdwards Lifesciences\b,2,EW
+EXC,Exelon Corp,\bExelon\b,1,EXC
+EXPE,Expedia Group Inc,\bExpedia\b,1,EXPE
+EXR,Extra Space Storage Inc,\bExtra Space Storage\b|\bExtra Space\b,3,EXR
+F,Ford Motor Co,\bFord Motor\b,2,F
+FANG,Diamondback Energy Inc,\bDiamondback Energy\b,2,FANG
+FAST,Fastenal Co,\bFastenal\b,1,FAST
+FB,Facebook Inc,\bFacebook\b,1,FB
+FBHS,Fortune Brands Home & Security Inc,\bFortune Brands Home&Security\b|\bFortune Brands\b,3,FBHS
+FCX,Freeport-McMoRan Inc,\bFreeport-McMoRan\b,1,FCX
+FDO,Family Dollar Stores Inc,\bFamily Dollar Stores\b|\bFamily Dollar\b,3,FDO
+FDX,FedEx Corp,\bFedEx\b,1,FDX
+FE,FirstEnergy Corp,\bFirstEnergy\b,1,FE
+FFIV,F5 Networks Inc,\bF5 Networks\b,2,FFIV
+FHN,First Horizon National Corp,\bFirst Horizon\b|\bFirst Horizon National\b,2,FHN
+FII,Federated Investors Inc,\bFederated Investors\b,2,FII
+FISV,Fiserv Inc,\bFiserv\b,1,FISV
+FITB,Fifth Third Bancorp,\bFifth Third Bancorp\b|\bFifth Third\b,3,FITB
+FL,Foot Locker Inc,\bFoot Locker\b,2,FL
+FLIR,FLIR Systems Inc,\bFLIR Systems\b,2,FLIR
+FLR,Fluor Corp,\bFluor\b,1,FLR
+FLS,Flowserve Corp,\bFlowserve\b,1,FLS
+FLT,FleetCor Technologies Inc,\bFleetCor Technologies\b,2,FLT
+FMC,FMC Corp,\bFMC\b,1,FMC
+FOSL,Fossil Group Inc,\bFossil\b,1,FOSL
+FOX,Fox Corp,\bFox\b,1,FOX
+FRC,First Republic Bank/CA,\bFirst Republic\b,1,FRC
+FRT,Federal Realty Investment Trust,\bFederal Realty Investment Trust\b|\bFederal Realty\b|\bFederal Realty Investment\b,4,FRT
+FRX,Forest Laboratories Inc,\bForest Laboratories\b,2,FRX
+FSLR,First Solar Inc,\bFirst Solar\b,1,FSLR
+FTI,TechnipFMC PLC,\bTechnipFMC\b,1,FTI
+FTNT,Fortinet Inc,\bFortinet\b,1,FTNT
+FTR,Frontier Communications Corp,\bFrontier Communications\b,2,FTR
+FTV,Fortive Corp,\bFortive\b,1,FTV
+GD,General Dynamics Corp,\bGeneral Dynamics\b,1,GD
+GE,General Electric Co,\bGeneral Electric\b,1,GE
+GGP,Brookfield Property REIT Inc,\bBrookfield Property REIT\b|\bBrookfield Property\b,3,GGP
+GILD,Gilead Sciences Inc,\bGilead Sciences\b,2,GILD
+GIS,General Mills Inc,\bGeneral Mills\b,1,GIS
+GL,Globe Life Inc,\bGlobe Life\b,2,GL
+GLW,Corning Inc,\bCorning\b,1,GLW
+GM,General Motors Co,\bGeneral Motors\b,1,GM
+GMCR,Keurig Green Mountain Inc,\bKeurig Green\b|\bKeurig Green Mountain\b,2,GMCR
+GME,GameStop Corp,\bGameStop\b,1,GME
+GNW,Genworth Financial Inc,\bGenworth Financial\b,2,GNW
+GOOG,Alphabet Inc,\bAlphabet\b,1,GOOG
+GPC,Genuine Parts Co,\bGenuine Parts\b,2,GPC
+GPN,Global Payments Inc,\bGlobal Payments\b,1,GPN
+GR,Goodrich Corp,\bGoodrich\b,1,GR
+GRMN,Garmin Ltd,\bGarmin\b,1,GRMN
+GS,Goldman Sachs Group Inc/The,\bGoldman Sachs\b,2,GS
+GT,Goodyear Tire & Rubber Co/The,\bGoodyear Tire&Rubber\b,2,GT
+GWW,WW Grainger Inc,\bWW Grainger\b,2,GWW
+HAL,Halliburton Co,\bHalliburton\b,1,HAL
+HAR,Harman International Industries Inc,\bHarman International\b|\bHarman International Industries\b,3,HAR
+HAS,Hasbro Inc,\bHasbro\b,1,HAS
+HBAN,Huntington Bancshares Inc/OH,\bHuntington Bancshares\b,2,HBAN
+HBI,Hanesbrands Inc,\bHanesbrands\b,1,HBI
+HCA,HCA Healthcare Inc,\bHCA Healthcare\b,2,HCA
+HCBK,Hudson City Bancorp Inc,\bHudson City\b|\bHudson City Bancorp\b,3,HCBK
+HD,Home Depot Inc/The,\bHome Depot\b,2,HD
+HES,Hess Corp,\bHess\b,1,HES
+HFC,HollyFrontier Corp,\bHollyFrontier\b,1,HFC
+HIG,Hartford Financial Services Group Inc/Th,\bHartford Financial\b|\bHartford Financial Services\b,3,HIG
+HII,Huntington Ingalls Industries Inc,\bHuntington Ingalls\b|\bHuntington Ingalls Industries\b,2,HII
+HLT,Hilton Worldwide Holdings Inc,\bHilton Worldwide\b,2,HLT
+HNZ,Kraft Heinz Foods Co,\bKraft Heinz Foods\b,1,HNZ
+HOG,Harley-Davidson Inc,\bHarley-Davidson\b,1,HOG
+HOLX,Hologic Inc,\bHologic\b,1,HOLX
+HON,Honeywell International Inc,\bHoneywell International\b,2,HON
+HOT,Starwood Hotels & Resorts Worldwide LLC,\bStarwood Hotels&Resorts\b|\bStarwood Hotels&Resorts Worldwide\b,3,HOT
+HP,Helmerich & Payne Inc,\bHelmerich&Payne\b,1,HP
+HPE,Hewlett Packard Enterprise Co,\bHewlett Packard\b|\bHewlett Packard Enterprise\b,3,HPE
+HPQ,HP Inc,\bHP\b,1,HPQ
+HRB,H&R Block Inc,\bH&R Block\b,2,HRB
+HRL,Hormel Foods Corp,\bHormel Foods\b,2,HRL
+HSH,Hillshire Brands Co/The,\bHillshire Brands\b,2,HSH
+HSIC,Henry Schein Inc,\bHenry Schein\b,2,HSIC
+HSP,Hospira Inc,\bHospira\b,1,HSP
+HST,Host Hotels & Resorts Inc,\bHost Hotels&Resorts\b,2,HST
+HSY,Hershey Co/The,\bHershey\b,1,HSY
+HUM,Humana Inc,\bHumana\b,1,HUM
+IBM,International Business Machines Corp,\bInternational Business Machines\b,2,IBM
+ICE,Intercontinental Exchange Inc,\bIntercontinental Exchange\b,2,ICE
+IDXX,IDEXX Laboratories Inc,\bIDEXX Laboratories\b,2,IDXX
+IEX,IDEX Corp,\bIDEX\b,1,IEX
+IFF,International Flavors & Fragrances Inc,\bInternational Flavors&Fragrances\b,1,IFF
+ILMN,Illumina Inc,\bIllumina\b,1,ILMN
+INCY,Incyte Corp,\bIncyte\b,1,INCY
+INFO,IHS Markit Ltd,\bIHS Markit\b,2,INFO
+INTC,Intel Corp,\bIntel\b,1,INTC
+INTU,Intuit Inc,\bIntuit\b,1,INTU
+IP,International Paper Co,\bInternational Paper\b,1,IP
+IPG,Interpublic Group of Cos Inc/The,\bInterpublic\b,1,IPG
+IPGP,IPG Photonics Corp,\bIPG Photonics\b,2,IPGP
+IQV,IQVIA Holdings Inc,\bIQVIA\b,1,IQV
+IR,Ingersoll-Rand PLC,\bIngersoll-Rand\b,1,IR
+IRM,Iron Mountain Inc,\bIron Mountain\b,2,IRM
+ISRG,Intuitive Surgical Inc,\bIntuitive Surgical\b,2,ISRG
+IT,Gartner Inc,\bGartner\b,1,IT
+ITW,Illinois Tool Works Inc,\bIllinois Tool\b|\bIllinois Tool Works\b,3,ITW
+IVZ,Invesco Ltd,\bInvesco\b,1,IVZ
+J,Jacobs Engineering Group Inc,\bJacobs Engineering\b,2,J
+JBHT,JB Hunt Transport Services Inc,\bJB Hunt Transport Services\b|\bJB Hunt\b|\bJB Hunt Transport\b,4,JBHT
+JBL,Jabil Inc,\bJabil\b,1,JBL
+JCI,Johnson Controls International plc,\bJohnson Controls International\b|\bJohnson Controls\b|\bJohnson Controls International plc\b,4,JCI
+JCP,JC Penney Co Inc,\bJC Penney\b,2,JCP
+JEF,Jefferies Financial Group Inc,\bJefferies Financial\b,2,JEF
+JKHY,Jack Henry & Associates Inc,\bJack Henry\b|\bJack Henry &\b,3,JKHY
+JNJ,Johnson & Johnson,\bJohnson&Johnson\b,1,JNJ
+JNPR,Juniper Networks Inc,\bJuniper Networks\b,2,JNPR
+JOY,Komatsu Mining Corp,\bKomatsu Mining\b,2,JOY
+JPM,JPMorgan Chase & Co,\bJPMorgan Chase\b|\bJPMorgan Chase &\b,3,JPM
+JWN,Nordstrom Inc,\bNordstrom\b,1,JWN
+K,Kellogg Co,\bKellogg\b,1,K
+KDP,Keurig Dr Pepper Inc,\bKeurig Dr\b|\bKeurig Dr Pepper\b,2,KDP
+KEY,KeyCorp,\bKeyCorp\b,1,KEY
+KEYS,Keysight Technologies Inc,\bKeysight Technologies\b,2,KEYS
+KHC,Kraft Heinz Co/The,\bKraft Heinz\b,1,KHC
+KIM,Kimco Realty Corp,\bKimco Realty\b,2,KIM
+KLAC,KLA Corp,\bKLA\b,1,KLAC
+KMB,Kimberly-Clark Corp,\bKimberly-Clark\b,1,KMB
+KMI,Kinder Morgan Inc/DE,\bKinder Morgan\b,2,KMI
+KMX,CarMax Inc,\bCarMax\b,1,KMX
+KO,Coca-Cola Co/The,\bCoca-Cola\b,1,KO
+KR,Kroger Co/The,\bKroger\b,1,KR
+KRFT,Kraft Foods Group Inc,\bKraft Foods\b,1,KRFT
+KSS,Kohl's Corp,\bKohl's\b,1,KSS
+KSU,Kansas City Southern,\bKansas City\b|\bKansas City Southern\b,3,KSU
+L,Loews Corp,\bLoews\b,1,L
+LB,L Brands Inc,\bL Brands\b,2,LB
+LDOS,Leidos Holdings Inc,\bLeidos\b,1,LDOS
+LEG,Leggett & Platt Inc,\bLeggett&Platt\b,1,LEG
+LEN,Lennar Corp,\bLennar\b,1,LEN
+LH,Laboratory Corp of America Holdings,\bLaboratory\b,1,LH
+LHX,L3Harris Technologies Inc,\bL3Harris Technologies\b,2,LHX
+LIN,Linde PLC,\bLinde\b,1,LIN
+LKQ,LKQ Corp,\bLKQ\b,1,LKQ
+LLL,L3 Technologies Inc,\bL3 Technologies\b,2,LLL
+LLTC,Linear Technology Corp,\bLinear Technology\b,2,LLTC
+LLY,Eli Lilly & Co,\bEli Lilly &\b|\bEli Lilly\b,3,LLY
+LM,Legg Mason Inc,\bLegg Mason\b,2,LM
+LMT,Lockheed Martin Corp,\bLockheed Martin\b,2,LMT
+LNC,Lincoln National Corp,\bLincoln National\b,2,LNC
+LNT,Alliant Energy Corp,\bAlliant Energy\b,2,LNT
+LO,Lorillard LLC,\bLorillard\b,1,LO
+LOW,Lowe's Cos Inc,\bLowe's Cos\b,2,LOW
+LRCX,Lam Research Corp,\bLam Research\b,2,LRCX
+LUV,Southwest Airlines Co,\bSouthwest Airlines\b,2,LUV
+LVLT,Level 3 Communications Inc,\bLevel 3\b|\bLevel 3 Communications\b,3,LVLT
+LVS,Las Vegas Sands Corp,\bLas Vegas Sands\b|\bLas Vegas\b,3,LVS
+LW,Lamb Weston Holdings Inc,\bLamb Weston\b,2,LW
+LXK,Lexmark International Inc,\bLexmark International\b,2,LXK
+LYB,LyondellBasell Industries NV,\bLyondellBasell Industries\b|\bLyondellBasell Industries NV\b,3,LYB
+LYV,Live Nation Entertainment Inc,\bLive Nation\b|\bLive Nation Entertainment\b,3,LYV
+M,Macy's Inc,\bMacy's\b,1,M
+MA,Mastercard Inc,\bMastercard\b,1,MA
+MAA,Mid-America Apartment Communities Inc,\bMid-America Apartment Communities\b|\bMid-America Apartment\b,3,MAA
+MAC,Macerich Co/The,\bMacerich\b,1,MAC
+MAR,Marriott International Inc/MD,\bMarriott International\b,2,MAR
+MAS,Masco Corp,\bMasco\b,1,MAS
+MAT,Mattel Inc,\bMattel\b,1,MAT
+MCD,McDonald's Corp,\bMcDonald's\b,1,MCD
+MCHP,Microchip Technology Inc,\bMicrochip Technology\b,2,MCHP
+MCK,McKesson Corp,\bMcKesson\b,1,MCK
+MCO,Moody's Corp,\bMoody's\b,1,MCO
+MDLZ,Mondelez International Inc,\bMondelez International\b,2,MDLZ
+MDT,Medtronic PLC,\bMedtronic\b,1,MDT
+MET,MetLife Inc,\bMetLife\b,1,MET
+MGM,MGM Resorts International,\bMGM Resorts International\b|\bMGM Resorts\b,3,MGM
+MHK,Mohawk Industries Inc,\bMohawk Industries\b,2,MHK
+MHS,Medco Health Solutions Inc,\bMedco Health Solutions\b|\bMedco Health\b,3,MHS
+MJN,Mead Johnson Nutrition Co,\bMead Johnson\b|\bMead Johnson Nutrition\b,3,MJN
+MKC,McCormick & Co Inc/MD,\bMcCormick &\b,2,MKC
+MKTX,MarketAxess Holdings Inc,\bMarketAxess\b,1,MKTX
+MLM,Martin Marietta Materials Inc,\bMartin Marietta Materials\b|\bMartin Marietta\b,3,MLM
+MMC,Marsh & McLennan Cos Inc,\bMarsh&McLennan Cos\b,2,MMC
+MMM,3M Co,\b3M\b,1,MMM
+MNK,Mallinckrodt PLC,\bMallinckrodt\b,1,MNK
+MNST,Monster Beverage Corp,\bMonster Beverage\b,2,MNST
+MO,Altria Group Inc,\bAltria\b,1,MO
+MOLX,Molex LLC/US,\bMolex\b,1,MOLX
+MON,Monsanto Co,\bMonsanto\b,1,MON
+MOS,Mosaic Co/The,\bMosaic\b,1,MOS
+MPC,Marathon Petroleum Corp,\bMarathon Petroleum\b,1,MPC
+MRK,Merck & Co Inc,\bMerck &\b,2,MRK
+MRO,Marathon Oil Corp,\bMarathon Oil\b,1,MRO
+MS,Morgan Stanley,\bMorgan Stanley\b,2,MS
+MSCI,MSCI Inc,\bMSCI\b,1,MSCI
+MSFT,Microsoft Corp,\bMicrosoft\b,1,MSFT
+MSI,Motorola Solutions Inc,\bMotorola Solutions\b,2,MSI
+MTB,M&T Bank Corp,\bM&T Bank\b,2,MTB
+MTD,Mettler-Toledo International Inc,\bMettler-Toledo International\b,2,MTD
+MU,Micron Technology Inc,\bMicron Technology\b,2,MU
+MUR,Murphy Oil Corp,\bMurphy Oil\b,2,MUR
+MWV,WestRock MWV LLC,\bWestRock MWV\b,2,MWV
+MXIM,Maxim Integrated Products Inc,\bMaxim Integrated Products\b|\bMaxim Integrated\b,3,MXIM
+MYL,Mylan NV,\bMylan NV\b,2,MYL
+NAVI,Navient Corp,\bNavient\b,1,NAVI
+NBL,Noble Energy Inc,\bNoble Energy\b,1,NBL
+NBR,Nabors Industries Ltd,\bNabors Industries\b,2,NBR
+NCLH,Norwegian Cruise Line Holdings Ltd,\bNorwegian Cruise\b|\bNorwegian Cruise Line\b,3,NCLH
+NEE,NextEra Energy Inc,\bNextEra Energy\b,2,NEE
+NEM,Newmont Corp,\bNewmont\b,1,NEM
+NFLX,Netflix Inc,\bNetflix\b,1,NFLX
+NFX,Newfield Exploration Co,\bNewfield Exploration\b,2,NFX
+NI,NiSource Inc,\bNiSource\b,1,NI
+NKE,NIKE Inc,\bNIKE\b,1,NKE
+NKTR,Nektar Therapeutics,\bNektar Therapeutics\b,2,NKTR
+NLOK,NortonLifeLock Inc,\bNortonLifeLock\b,1,NLOK
+NLSN,Nielsen Holdings PLC,\bNielsen\b,1,NLSN
+NOC,Northrop Grumman Corp,\bNorthrop Grumman\b,2,NOC
+NOV,National Oilwell Varco Inc,\bNational Oilwell Varco\b|\bNational Oilwell\b,2,NOV
+NOW,ServiceNow Inc,\bServiceNow\b,1,NOW
+NRG,NRG Energy Inc,\bNRG Energy\b,2,NRG
+NSC,Norfolk Southern Corp,\bNorfolk Southern\b,2,NSC
+NTAP,NetApp Inc,\bNetApp\b,1,NTAP
+NTRS,Northern Trust Corp,\bNorthern Trust\b,2,NTRS
+NUE,Nucor Corp,\bNucor\b,1,NUE
+NVDA,NVIDIA Corp,\bNVIDIA\b,1,NVDA
+NVR,NVR Inc,\bNVR\b,1,NVR
+NWL,Newell Brands Inc,\bNewell Brands\b,2,NWL
+NYX,NYSE Euronext,\bNYSE Euronext\b,2,NYX
+O,Realty Income Corp,\bRealty Income\b,2,O
+ODFL,Old Dominion Freight Line Inc,\bOld Dominion\b|\bOld Dominion Freight Line\b|\bOld Dominion Freight\b,4,ODFL
+OKE,ONEOK Inc,\bONEOK\b,1,OKE
+OMC,Omnicom Group Inc,\bOmnicom\b,1,OMC
+ORCL,Oracle Corp,\bOracle\b,1,ORCL
+ORLY,O'Reilly Automotive Inc,\bO'Reilly Automotive\b,2,ORLY
+OXY,Occidental Petroleum Corp,\bOccidental Petroleum\b,2,OXY
+PAYX,Paychex Inc,\bPaychex\b,1,PAYX
+PBCT,People's United Financial Inc,\bPeople's United Financial\b|\bPeople's United\b,3,PBCT
+PBI,Pitney Bowes Inc,\bPitney Bowes\b,2,PBI
+PCAR,PACCAR Inc,\bPACCAR\b,1,PCAR
+PCG,PG&E Corp,\bPG&E\b,1,PCG
+PCL,Plum Creek Timber Co Inc,\bPlum Creek Timber\b|\bPlum Creek\b,3,PCL
+PCP,Precision Castparts Corp,\bPrecision Castparts\b,2,PCP
+PDCO,Patterson Cos Inc,\bPatterson Cos\b,2,PDCO
+PEAK,Healthpeak Properties Inc,\bHealthpeak Properties\b,2,PEAK
+PEG,Public Service Enterprise Group Inc,\bPublic Service\b|\bPublic Service Enterprise\b,2,PEG
+PEP,PepsiCo Inc,\bPepsiCo\b,1,PEP
+PETM,PetSmart Inc,\bPetSmart\b,1,PETM
+PFE,Pfizer Inc,\bPfizer\b,1,PFE
+PFG,Principal Financial Group Inc,\bPrincipal Financial\b,2,PFG
+PG,Procter & Gamble Co/The,\bProcter&Gamble\b,1,PG
+PGR,Progressive Corp/The,\bProgressive\b,1,PGR
+PH,Parker-Hannifin Corp,\bParker-Hannifin\b,1,PH
+PHM,PulteGroup Inc,\bPulteGroup\b,1,PHM
+PKG,Packaging Corp of America,\bPackaging\b,1,PKG
+PKI,PerkinElmer Inc,\bPerkinElmer\b,1,PKI
+PLD,Prologis Inc,\bPrologis\b,1,PLD
+PM,Philip Morris International Inc,\bPhilip Morris International\b|\bPhilip Morris\b,3,PM
+PNC,PNC Financial Services Group Inc/The,\bPNC Financial\b|\bPNC Financial Services\b,3,PNC
+PNR,Pentair PLC,\bPentair\b,1,PNR
+PNW,Pinnacle West Capital Corp,\bPinnacle West Capital\b|\bPinnacle West\b,3,PNW
+POM,Pepco Holdings LLC,\bPepco\b,1,POM
+PPG,PPG Industries Inc,\bPPG Industries\b,2,PPG
+PPL,PPL Corp,\bPPL\b,1,PPL
+PRGO,Perrigo Co PLC,\bPerrigo\b,1,PRGO
+PRU,Prudential Financial Inc,\bPrudential Financial\b,2,PRU
+PSA,Public Storage,\bPublic Storage\b,2,PSA
+PSX,Phillips 66,\bPhillips 66\b,2,PSX
+PVH,PVH Corp,\bPVH\b,1,PVH
+PWR,Quanta Services Inc,\bQuanta Services\b,2,PWR
+PX,Praxair Inc,\bPraxair\b,1,PX
+PXD,Pioneer Natural Resources Co,\bPioneer Natural\b|\bPioneer Natural Resources\b,3,PXD
+PYPL,PayPal Holdings Inc,\bPayPal\b,1,PYPL
+QCOM,QUALCOMM Inc,\bQUALCOMM\b,1,QCOM
+QEP,QEP Resources Inc,\bQEP Resources\b,2,QEP
+QRVO,Qorvo Inc,\bQorvo\b,1,QRVO
+R,Ryder System Inc,\bRyder System\b,2,R
+RAI,Reynolds American Inc,\bReynolds American\b,2,RAI
+RCL,Royal Caribbean Cruises Ltd,\bRoyal Caribbean\b|\bRoyal Caribbean Cruises\b,3,RCL
+RDC,Rowan Cos Ltd,\bRowan Cos\b,2,RDC
+RE,Everest Re Group Ltd,\bEverest Re\b,2,RE
+REG,Regency Centers Corp,\bRegency Centers\b,2,REG
+REGN,Regeneron Pharmaceuticals Inc,\bRegeneron Pharmaceuticals\b,2,REGN
+RF,Regions Financial Corp,\bRegions Financial\b,2,RF
+RHI,Robert Half International Inc,\bRobert Half\b|\bRobert Half International\b,3,RHI
+RHT,Red Hat Inc,\bRed Hat\b,2,RHT
+RIG,Transocean Ltd,\bTransocean\b,1,RIG
+RJF,Raymond James Financial Inc,\bRaymond James\b|\bRaymond James Financial\b,3,RJF
+RL,Ralph Lauren Corp,\bRalph Lauren\b,2,RL
+RMD,ResMed Inc,\bResMed\b,1,RMD
+ROK,Rockwell Automation Inc,\bRockwell Automation\b,1,ROK
+ROL,Rollins Inc,\bRollins\b,1,ROL
+ROP,Roper Technologies Inc,\bRoper Technologies\b,2,ROP
+ROST,Ross Stores Inc,\bRoss Stores\b,2,ROST
+RRC,Range Resources Corp,\bRange Resources\b,2,RRC
+RRD,RR Donnelley & Sons Co,\bRR Donnelley&Sons\b,2,RRD
+RSG,Republic Services Inc,\bRepublic Services\b,2,RSG
+RTN,Raytheon Co,\bRaytheon\b,1,RTN
+SBUX,Starbucks Corp,\bStarbucks\b,1,SBUX
+SCG,SCANA Corp,\bSCANA\b,1,SCG
+SCHW,Charles Schwab Corp/The,\bCharles Schwab\b,2,SCHW
+SEE,Sealed Air Corp,\bSealed Air\b,2,SEE
+SHLDQ,Sears Holdings Corp,\bSears\b,1,SHLDQ
+SHW,Sherwin-Williams Co/The,\bSherwin-Williams\b,1,SHW
+SIAL,Sigma-Aldrich Corp,\bSigma-Aldrich\b,1,SIAL
+SIG,Signet Jewelers Ltd,\bSignet Jewelers\b,2,SIG
+SIVB,SVB Financial Group,\bSVB Financial\b,2,SIVB
+SJM,JM Smucker Co/The,\bJM Smucker\b,2,SJM
+SLB,Schlumberger Ltd,\bSchlumberger\b,1,SLB
+SLG,SL Green Realty Corp,\bSL Green Realty\b|\bSL Green\b,3,SLG
+SLM,SLM Corp,\bSLM\b,1,SLM
+SNA,Snap-on Inc,\bSnap-on\b,1,SNA
+SNDK,SanDisk LLC,\bSanDisk\b,1,SNDK
+SNI,Scripps Networks Interactive Inc,\bScripps Networks Interactive\b|\bScripps Networks\b,3,SNI
+SNPS,Synopsys Inc,\bSynopsys\b,1,SNPS
+SPG,Simon Property Group Inc,\bSimon Property\b,1,SPG
+SPGI,S&P Global Inc,\bS&P Global\b,2,SPGI
+SPLS,Staples Inc,\bStaples\b,1,SPLS
+SRCL,Stericycle Inc,\bStericycle\b,1,SRCL
+SRE,Sempra Energy,\bSempra Energy\b,2,SRE
+STE,STERIS PLC,\bSTERIS\b,1,STE
+STI,SunTrust Banks Inc,\bSunTrust Banks\b,2,STI
+STJ,St Jude Medical Inc,\bSt Jude Medical\b|\bSt Jude\b,3,STJ
+STT,State Street Corp,\bState Street\b,2,STT
+STX,Seagate Technology PLC,\bSeagate Technology\b,2,STX
+STZ,Constellation Brands Inc,\bConstellation Brands\b,1,STZ
+SVU,SUPERVALU Inc,\bSUPERVALU\b,1,SVU
+SWK,Stanley Black & Decker Inc,\bStanley Black&Decker\b,2,SWK
+SWKS,Skyworks Solutions Inc,\bSkyworks Solutions\b,2,SWKS
+SWN,Southwestern Energy Co,\bSouthwestern Energy\b,2,SWN
+SWY,Safeway Inc,\bSafeway\b,1,SWY
+SYF,Synchrony Financial,\bSynchrony Financial\b,2,SYF
+SYK,Stryker Corp,\bStryker\b,1,SYK
+SYY,Sysco Corp,\bSysco\b,1,SYY
+T,AT&T Inc,\bAT&T\b,1,T
+TAP,Molson Coors Beverage Co,\bMolson Coors\b|\bMolson Coors Beverage\b,3,TAP
+TDC,Teradata Corp,\bTeradata\b,1,TDC
+TDG,TransDigm Group Inc,\bTransDigm\b,1,TDG
+TEG,Integrys Energy Group Inc,\bIntegrys Energy\b,2,TEG
+TEL,TE Connectivity Ltd,\bTE Connectivity\b,2,TEL
+TER,Teradyne Inc,\bTeradyne\b,1,TER
+TFC,Truist Financial Corp,\bTruist Financial\b,2,TFC
+TFCF,TFCF Corp,\bTFCF\b,1,TFCF
+TFX,Teleflex Inc,\bTeleflex\b,1,TFX
+TGNA,TEGNA Inc,\bTEGNA\b,1,TGNA
+THC,Tenet Healthcare Corp,\bTenet Healthcare\b,2,THC
+TIE,Titanium Metals Corp,\bTitanium Metals\b,2,TIE
+TIF,Tiffany & Co,\bTiffany &\b,2,TIF
+TJX,TJX Cos Inc/The,\bTJX Cos\b,2,TJX
+TMO,Thermo Fisher Scientific Inc,\bThermo Fisher Scientific\b|\bThermo Fisher\b,3,TMO
+TMUS,T-Mobile US Inc,\bT-Mobile\b,1,TMUS
+TPR,Tapestry Inc,\bTapestry\b,1,TPR
+TRIP,TripAdvisor Inc,\bTripAdvisor\b,1,TRIP
+TROW,T Rowe Price Group Inc,\bT Rowe Price\b|\bT Rowe\b,3,TROW
+TRV,Travelers Cos Inc/The,\bTravelers Cos\b,2,TRV
+TSCO,Tractor Supply Co,\bTractor Supply\b,2,TSCO
+TSN,Tyson Foods Inc,\bTyson Foods\b,2,TSN
+TSS,Total System Services Inc,\bTotal System\b|\bTotal System Services\b,3,TSS
+TTWO,Take-Two Interactive Software Inc,\bTake-Two Interactive Software\b|\bTake-Two Interactive\b,3,TTWO
+TWC,Time Warner Cable Inc,\bTime Warner Cable\b,1,TWC
+TWTR,Twitter Inc,\bTwitter\b,1,TWTR
+TWX,Time Warner Inc,\bTime Warner\b,2,TWX
+TXN,Texas Instruments Inc,\bTexas Instruments\b,2,TXN
+TXT,Textron Inc,\bTextron\b,1,TXT
+UA,Under Armour Inc,\bUnder Armour\b,2,UA
+UAL,United Airlines Holdings Inc,\bUnited Airlines\b,1,UAL
+UDR,UDR Inc,\bUDR\b,1,UDR
+UHS,Universal Health Services Inc,\bUniversal Health\b|\bUniversal Health Services\b,3,UHS
+ULTA,Ulta Beauty Inc,\bUlta Beauty\b,2,ULTA
+UNH,UnitedHealth Group Inc,\bUnitedHealth\b,1,UNH
+UNM,Unum Group,\bUnum\b,1,UNM
+UNP,Union Pacific Corp,\bUnion Pacific\b,2,UNP
+UPS,United Parcel Service Inc,\bUnited Parcel Service\b|\bUnited Parcel\b,2,UPS
+URBN,Urban Outfitters Inc,\bUrban Outfitters\b,2,URBN
+URI,United Rentals Inc,\bUnited Rentals\b,1,URI
+UTX,United Technologies Corp,\bUnited Technologies\b,1,UTX
+V,Visa Inc,\bVisa\b,1,V
+VAL,Valaris plc,\bValaris plc\b,2,VAL
+VAR,Varian Medical Systems Inc,\bVarian Medical Systems\b|\bVarian Medical\b,3,VAR
+VFC,VF Corp,\bVF\b,1,VFC
+VIAB,Viacom Inc,\bViacom\b,1,VIAB
+VIAC,ViacomCBS Inc,\bViacomCBS\b,1,VIAC
+VIAV,Viavi Solutions Inc,\bViavi Solutions\b,2,VIAV
+VLO,Valero Energy Corp,\bValero Energy\b,2,VLO
+VMC,Vulcan Materials Co,\bVulcan Materials\b,2,VMC
+VNO,Vornado Realty Trust,\bVornado Realty\b|\bVornado Realty Trust\b,3,VNO
+VRSK,Verisk Analytics Inc,\bVerisk Analytics\b,2,VRSK
+VRSN,VeriSign Inc,\bVeriSign\b,1,VRSN
+VRTX,Vertex Pharmaceuticals Inc,\bVertex Pharmaceuticals\b,2,VRTX
+VTR,Ventas Inc,\bVentas\b,1,VTR
+VZ,Verizon Communications Inc,\bVerizon Communications\b,2,VZ
+WAB,Westinghouse Air Brake Technologies Corp,\bWestinghouse Air Brake\b|\bWestinghouse Air Brake Technologies\b|\bWestinghouse Air\b,4,WAB
+WAT,Waters Corp,\bWaters\b,1,WAT
+WBA,Walgreens Boots Alliance Inc,\bWalgreens Boots\b|\bWalgreens Boots Alliance\b,3,WBA
+WCG,WellCare Health Plans Inc,\bWellCare Health Plans\b|\bWellCare Health\b,3,WCG
+WDC,Western Digital Corp,\bWestern Digital\b,1,WDC
+WEC,WEC Energy Group Inc,\bWEC Energy\b,2,WEC
+WELL,Welltower Inc,\bWelltower\b,1,WELL
+WFC,Wells Fargo & Co,\bWells Fargo &\b|\bWells Fargo\b,3,WFC
+WFM,Whole Foods Market Inc,\bWhole Foods\b|\bWhole Foods Market\b,3,WFM
+WHR,Whirlpool Corp,\bWhirlpool\b,1,WHR
+WINMQ,Windstream Holdings Inc,\bWindstream\b,1,WINMQ
+WLTW,Willis Towers Watson PLC,\bWillis Towers Watson\b|\bWillis Towers\b,3,WLTW
+WMB,Williams Cos Inc/The,\bWilliams Cos\b,2,WMB
+WMT,Walmart Inc,\bWalmart\b,1,WMT
+WPX,WPX Energy Inc,\bWPX Energy\b,2,WPX
+WRB,WR Berkley Corp,\bWR Berkley\b,2,WRB
+WRK,Westrock Co,\bWestrock\b,1,WRK
+WU,Western Union Co/The,\bWestern Union\b,1,WU
+WY,Weyerhaeuser Co,\bWeyerhaeuser\b,1,WY
+WYND,Wyndham Destinations Inc,\bWyndham Destinations\b,2,WYND
+WYNN,Wynn Resorts Ltd,\bWynn Resorts\b,2,WYNN
+X,United States Steel Corp,\bUnited States Steel\b,1,X
+XEC,Cimarex Energy Co,\bCimarex Energy\b,2,XEC
+XEL,Xcel Energy Inc,\bXcel Energy\b,2,XEL
+XL,XL Group Ltd,\bXL\b,1,XL
+XLNX,Xilinx Inc,\bXilinx\b,1,XLNX
+XOM,Exxon Mobil Corp,\bExxon Mobil\b,2,XOM
+XRAY,DENTSPLY SIRONA Inc,\bDENTSPLY SIRONA\b,2,XRAY
+XRX,Xerox Holdings Corp,\bXerox\b,1,XRX
+XYL,Xylem Inc/NY,\bXylem\b,1,XYL
+YUM,Yum! Brands Inc,\bYum! Brands\b,2,YUM
+ZBH,Zimmer Biomet Holdings Inc,\bZimmer Biomet\b,2,ZBH
+ZBRA,Zebra Technologies Corp,\bZebra Technologies\b,2,ZBRA
+ZION,Zions Bancorp NA,\bZions Bancorp\b|\bZions Bancorp NA\b,3,ZION
+ZTS,Zoetis Inc,\bZoetis\b,1,ZTS
