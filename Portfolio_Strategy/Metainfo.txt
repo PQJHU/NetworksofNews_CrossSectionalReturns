@@ -1,0 +1,13 @@
+Name of QuantLet : Portfolio_NetworkDegree
+
+Published in : 'Networks of News and Cross-Sectional Returns'
+
+Description : 'Portfolio constructed by sorting the network attention proxy, network degree.
+S&P500 constituents are sorted into quintile, and each quintile portfolio is rebalanced at the end of each
+month by the preceding monthly network degree. Portfolios can be value-weighted or equal-weighted.'
+
+Keywords : Textual Analysis, Network Analysis, Network Degree, Portfolio Management
+
+See also : ''
+
+Author : Junjie Hu
